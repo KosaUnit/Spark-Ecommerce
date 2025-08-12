@@ -1,0 +1,2 @@
+What do you think .cache() actually did?
+- Cache basically kept my data in memory (RAM) so further if I'm calling another spark action it does not follow all executions from the beggining but just reusing the cached data. 
