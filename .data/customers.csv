@@ -1,0 +1,17 @@
+customer_id,first_name,last_name,country
+101,Alice,Smith,DE
+102,Bob,Müller,CH
+103,Clara,Rossi,IT
+104,Daniel,Johnson,US
+105,Elena,Novak,CZ
+106,Felix,Wong,CN
+107,Gabriela,Silva,BR
+108,Hans,Meier,AT
+109,Ines,López,ES
+110,Jakub,Kowalski,PL
+111,Karen,O'Neil,IE
+112,Lukas,Bauer,DE
+113,,Bauer,DE
+114,John,,DE
+115,23,Kowalski,PL
+Slay,Daniel,Johnson,US
